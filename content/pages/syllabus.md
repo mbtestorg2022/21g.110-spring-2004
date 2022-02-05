@@ -46,14 +46,85 @@ Evaluation will be based on class performance, bi-weekly quizzes, a mid-term, a 
 
 The weighting of the various factors is, roughly, as follows:
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Class Performance  {{< br >}}  {{< br >}}Class Attendance  {{< br >}}Class Preparation  {{< br >}}Class Participation  {{< br >}}Assigned Homework | 20  {{< br >}}  {{< br >}}5  {{< br >}}5  {{< br >}}5  {{< br >}}5 |
-| By-weekly Quizzes | 20 |
-| In-class Dictation | 10 |
-| Mid-Term | 20 |
-| Power Point Presentation | 10 |
-| Four-page Paper | 20 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Performance  
+  
+Class Attendance  
+Class Preparation  
+Class Participation  
+Assigned Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20  
+  
+5  
+5  
+5  
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+By-weekly Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Dictation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-Term
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Power Point Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four-page Paper
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Factors involved in the Class Grade include being on time and prepared, completing written assignments carefully and on time, and participating enthusiastically in class activities. Other factors may come in to play, e.g. improvement versus deterioration over the course of the semester, and progress relative to starting level.
 

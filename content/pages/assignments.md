@@ -6,133 +6,1389 @@ uid: d27e7d98-c8e1-3902-924f-d953886f365a
 
 {{< anchor "Top" >}}{{< /anchor >}}[Homework assignments](#Homework) are available for this course. Practice materials for listening, grammar and word usage are available in the [study materials]({{< baseurl >}}/pages/study-materials) section of this course.
 
-|  {{< br >}}{{< br >}} 二月四号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 二月六号  {{< br >}}星期四 {{< br >}}{{< br >}}  |
-| --- | --- |
-| 1\. Self introduction.  {{< br >}}2\. Course introduction.  {{< br >}}3\. Reading comprehension. | 1\. Questions and answers on Lesson One.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion. |
-| **Homework** | **Homework** |
-| 1\. Read Lesson One.  {{< br >}}2\. Listen to the recording.  {{< br >}}3\. Study phrases given. | 1\. Listen to the recording.  {{< br >}}2\. Reading Lesson One again.  {{< br >}}3\. Study phrases given.  {{< br >}}4\. Do exercise. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+二月四号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+二月六号  
+星期四
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Self introduction.  
+2\. Course introduction.  
+3\. Reading comprehension.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Questions and answers on Lesson One.  
+2\. Word usage practice.  
+3\. Discussion.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Read Lesson One.  
+2\. Listen to the recording.  
+3\. Study phrases given.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Listen to the recording.  
+2\. Reading Lesson One again.  
+3\. Study phrases given.  
+4\. Do exercise.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 二月九号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 二月十一号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 二月十三号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-| 1\. Movie watching.  {{< br >}}2\. Pattern practice.  {{< br >}}3\. Word usage practice. | 1\. Pattern practice.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion. | 1\. Pattern practice.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion.  {{< br >}}4\. Homework due. |
-| **Homework** | **Homework** | **Homework** |
-| 1\. Do exercise.  {{< br >}}2\. Study phrases given.  {{< br >}}3\. Study patterns given. | 1\. Do exercise.  {{< br >}}2\. Study phrase given.  {{< br >}}3\. Study patterns given. | 1\. Review Lesson One. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+二月九号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+二月十一号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+二月十三号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Movie watching.  
+2\. Pattern practice.  
+3\. Word usage practice.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Pattern practice.  
+2\. Word usage practice.  
+3\. Discussion.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Pattern practice.  
+2\. Word usage practice.  
+3\. Discussion.  
+4\. Homework due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Do exercise.  
+2\. Study phrases given.  
+3\. Study patterns given.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Do exercise.  
+2\. Study phrase given.  
+3\. Study patterns given.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Review Lesson One.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 二月十七号  {{< br >}}星期二 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 二月十八号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 二月二十号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-| L-1 revision. | Quiz-1 | 1\. Questions and answers on Lesson Two.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion. |
-| **Homework** | **Homework** | **Homework** |
-| Review L-1 | 1\. Listen to L-2 recording.  {{< br >}}2\. Reading Lesson Two.  {{< br >}}3\. Study phrases given.  {{< br >}}4\. Do exercise. | 1\. Listen to L-2 recording.  {{< br >}}2\. Reading Lesson Two again.  {{< br >}}3\. Study phrases given.  {{< br >}}4\. Do exercise. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+二月十七号  
+星期二
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+二月十八号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+二月二十号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L-1 revision.
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz-1
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Questions and answers on Lesson Two.  
+2\. Word usage practice.  
+3\. Discussion.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review L-1
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Listen to L-2 recording.  
+2\. Reading Lesson Two.  
+3\. Study phrases given.  
+4\. Do exercise.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Listen to L-2 recording.  
+2\. Reading Lesson Two again.  
+3\. Study phrases given.  
+4\. Do exercise.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 二月二十三号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 二月二十五号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 二月二十七号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-| 1\. Questions and answers on Lesson Two.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion. | 1\. Movie watching.  {{< br >}}2\. Pattern practice.  {{< br >}}3\. Word usage practice. | 1\. Pattern practice.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion.  {{< br >}}4\. Homework due. |
-| **Homework** | **Homework** | **Homework** |
-| 1\. Do exercise.  {{< br >}}2\. Study phrases given.  {{< br >}}3\. Study patterns given. | 1\. Do exercise.  {{< br >}}2\. Study phrase given.  {{< br >}}3\. Study patterns given. | 1\. Review Lesson Two. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
 
-|  {{< br >}}{{< br >}} 三月一号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月三号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月五号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-| Quiz-2 | 1\. Questions and answers on Lesson Three.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion. | 1\. Questions and answers on Lesson Three.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion. |
-| **Homework** | **Homework** | **Homework** |
-| 1\. Listen to L-3 recording.  {{< br >}}2\. Reading Lesson Three.  {{< br >}}3\. Study phrases given.  {{< br >}}4\. Study structures.  {{< br >}}5\. Do exercises. | 1\. Listen to L-3 recording.  {{< br >}}2\. Reading Lesson Three.  {{< br >}}3\. Study phrases given.  {{< br >}}4\. Study structures.  {{< br >}}5\. Do exercises. | 1\. Listen to L-3 recording.  {{< br >}}2\. Reading Lesson Three again.  {{< br >}}3\. Study phrases given.  {{< br >}}4\. Study structures.  {{< br >}}5\. Do exercises. 
 
-|  {{< br >}}{{< br >}} 三月八号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月十号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月十二号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-| 1\. Questions and answers on Lesson Three.  {{< br >}}2\. Word usage practice.  {{< br >}}3\. Discussion. | 1\. Discussion on the videos.  {{< br >}}2\. Presentation on 上山下鄉的原因及方式.  {{< br >}}3\. Questions due.  {{< br >}}4\. Movie watching. | 1\. Discussion on the videos.  {{< br >}}2\. Presentation on 老三屆及其農村生活.  {{< br >}}3\. Movie watching.  {{< br >}}4\. Questions due.  {{< br >}}5\. Homework due. |
-| **Homework** | **Homework** | **Homework** |
-| 1\. Do exercise.  {{< br >}}2\. Study phrases given.  {{< br >}}3\. Study patterns given.  {{< br >}}4\. Watch the videos for 上山下鄉  {{< br >}}5\. Questions on 上山下鄉的原因及方式。 | 1\. Watch the videos for 老三屆、知青生活  {{< br >}}2\. Questions on 老三屆及其農村生活. | Review L-3. 
+二月二十三号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+二月二十五号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+二月二十七号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Questions and answers on Lesson Two.  
+2\. Word usage practice.  
+3\. Discussion.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Movie watching.  
+2\. Pattern practice.  
+3\. Word usage practice.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Pattern practice.  
+2\. Word usage practice.  
+3\. Discussion.  
+4\. Homework due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Do exercise.  
+2\. Study phrases given.  
+3\. Study patterns given.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Do exercise.  
+2\. Study phrase given.  
+3\. Study patterns given.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Review Lesson Two.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+三月一号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月三号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月五号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz-2
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Questions and answers on Lesson Three.  
+2\. Word usage practice.  
+3\. Discussion.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Questions and answers on Lesson Three.  
+2\. Word usage practice.  
+3\. Discussion.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Listen to L-3 recording.  
+2\. Reading Lesson Three.  
+3\. Study phrases given.  
+4\. Study structures.  
+5\. Do exercises.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Listen to L-3 recording.  
+2\. Reading Lesson Three.  
+3\. Study phrases given.  
+4\. Study structures.  
+5\. Do exercises.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Listen to L-3 recording.  
+2\. Reading Lesson Three again.  
+3\. Study phrases given.  
+4\. Study structures.  
+5\. Do exercises.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+三月八号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月十号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月十二号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Questions and answers on Lesson Three.  
+2\. Word usage practice.  
+3\. Discussion.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Discussion on the videos.  
+2\. Presentation on 上山下鄉的原因及方式.  
+3\. Questions due.  
+4\. Movie watching.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Discussion on the videos.  
+2\. Presentation on 老三屆及其農村生活.  
+3\. Movie watching.  
+4\. Questions due.  
+5\. Homework due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Do exercise.  
+2\. Study phrases given.  
+3\. Study patterns given.  
+4\. Watch the videos for 上山下鄉  
+5\. Questions on 上山下鄉的原因及方式。
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Watch the videos for 老三屆、知青生活  
+2\. Questions on 老三屆及其農村生活.
+{{< tdclose >}}
+{{< tdopen >}}
+Review L-3.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 三月十五号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月十七号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月十九号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-| Quiz-3 | 1\. Discussion on 上山下乡.  {{< br >}}2\. Presentation on 上山下乡.  {{< br >}}3\. Composition due. | 1\. Questions and answers on L-1-2-3.  {{< br >}}2\. Discussion.  {{< br >}}3\. “Advantages and disadvantages of the site” sue. |
-| **Homework** | **Homework** | **Homework** |
-| 1\. Watch and compare the interviews on 上山下乡, and write a one-page composition. | 1\. Review L-1-2-3, and write down your questions for Friday’s review.  {{< br >}}2\. Write down on a piece of paper the advantages and disadvantages of the site (though it hasn’t been finished yet). | 1\. Review L-1-2-3.  {{< br >}}2\. Review your homework and quizzes. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+三月十五号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月十七号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月十九号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz-3
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Discussion on 上山下乡.  
+2\. Presentation on 上山下乡.  
+3\. Composition due.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Questions and answers on L-1-2-3.  
+2\. Discussion.  
+3\. “Advantages and disadvantages of the site” sue.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Watch and compare the interviews on 上山下乡, and write a one-page composition.
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Review L-1-2-3, and write down your questions for Friday’s review.  
+2\. Write down on a piece of paper the advantages and disadvantages of the site (though it hasn’t been finished yet).
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Review L-1-2-3.  
+2\. Review your homework and quizzes.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 三月二十二号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月二十四号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月二十六号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 春假！ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 春假！ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 春假！ {{< br >}}{{< br >}}  |
-| **Homework** | **Homework** | **Homework** |
-|  {{< br >}}{{< br >}} 春假！ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 春假！ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 春假！ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+三月二十二号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月二十四号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月二十六号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+春假！
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+春假！
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+春假！
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+{{< tdopen >}}
+**Homework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+春假！
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+春假！
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+春假！
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 三月二十九号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 三月三十一号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月二号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} Mid-term Exam {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-4, introduction.  {{< br >}}2\. L-4, structures and explanations.  {{< br >}}3\. L-4, discussion. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-4, structures and explanations continued.  {{< br >}}2\. Discussion continued.  {{< br >}}3\. Movie watching. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 1\. Read L-4.  {{< br >}}2\. Answer questions.  {{< br >}}3\. Study structures. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Study "useful words."  {{< br >}}2\. Study structures.  {{< br >}}3\. Post your composition 我的十七岁  {{< br >}}4\. Start to prepare your final presentation research.  {{< br >}}5\. Listen to L-4. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Study "useful words."  {{< br >}}2\. Study structures.  {{< br >}}3\. Post your composition 我对上山下乡的认识 .  {{< br >}}4\. Prepare your final presentation and research.  {{< br >}}5\. Do homework. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+三月二十九号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+三月三十一号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月二号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Mid-term Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-4, introduction.  
+2\. L-4, structures and explanations.  
+3\. L-4, discussion.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-4, structures and explanations continued.  
+2\. Discussion continued.  
+3\. Movie watching.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. Read L-4.  
+2\. Answer questions.  
+3\. Study structures.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Study "useful words."  
+2\. Study structures.  
+3\. Post your composition 我的十七岁  
+4\. Start to prepare your final presentation research.  
+5\. Listen to L-4.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Study "useful words."  
+2\. Study structures.  
+3\. Post your composition 我对上山下乡的认识 .  
+4\. Prepare your final presentation and research.  
+5\. Do homework.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 四月五号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月七号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月九号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1\. L-4, structures and explanations continued.  {{< br >}}2\. Discussion continued. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-5, introduction.  {{< br >}}2\. L-5, structures and explanations.  {{< br >}}3\. L-5, discussion.  {{< br >}}4\. Homework due. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Quiz-4 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 1\. Do homework.  {{< br >}}2\. Prepare your final presentation and research.  {{< br >}}3\. Read L-5. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Review L-4.  {{< br >}}2\. Prepare your final presentation and research. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Answer questions.  {{< br >}}2\. Study structures.  {{< br >}}3\. Prepare your final presentation and research. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+四月五号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月七号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月九号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. L-4, structures and explanations continued.  
+2\. Discussion continued.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-5, introduction.  
+2\. L-5, structures and explanations.  
+3\. L-5, discussion.  
+4\. Homework due.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz-4
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. Do homework.  
+2\. Prepare your final presentation and research.  
+3\. Read L-5.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Review L-4.  
+2\. Prepare your final presentation and research.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Answer questions.  
+2\. Study structures.  
+3\. Prepare your final presentation and research.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 四月十二号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月十四号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月十六号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1\. L-5, introduction.  {{< br >}}2\. L-5, structures and explanations.  {{< br >}}3\. L-5, discussion. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-5, structures and explanations continued.  {{< br >}}2\. Discussion continued. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-5, structures and explanations continued.  {{< br >}}2\. Discussion continued.  {{< br >}}3\. Movie watching. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 1\. Study “useful words.”  {{< br >}}2\. Study structures.  {{< br >}}3\. Listen to L-5.  {{< br >}}4\. Prepare your final presentation and research.  {{< br >}}5\. Read L-5. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Study “useful words.”  {{< br >}}2\. Study structures.  {{< br >}}3\. Prepare your final presentation and research.  {{< br >}}4\. Do homework.  {{< br >}}5\. Read L-5. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Do homework.  {{< br >}}2\. Prepare your final presentation and research.  {{< br >}}3\. Read L-5. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+四月十二号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月十四号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月十六号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. L-5, introduction.  
+2\. L-5, structures and explanations.  
+3\. L-5, discussion.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-5, structures and explanations continued.  
+2\. Discussion continued.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-5, structures and explanations continued.  
+2\. Discussion continued.  
+3\. Movie watching.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. Study “useful words.”  
+2\. Study structures.  
+3\. Listen to L-5.  
+4\. Prepare your final presentation and research.  
+5\. Read L-5.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Study “useful words.”  
+2\. Study structures.  
+3\. Prepare your final presentation and research.  
+4\. Do homework.  
+5\. Read L-5.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Do homework.  
+2\. Prepare your final presentation and research.  
+3\. Read L-5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 四月十九号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月二十一号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月二十三号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} Vacation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-5, structures and explanations.  {{< br >}}2\. Cultural background explanation.  {{< br >}}3\. Homework due. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Quiz-5 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Vacation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Review L-5.  {{< br >}}2\. Prepare your final presentation and research. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Answer questions.  {{< br >}}2\. Study structures.  {{< br >}}3\. Read L-6.  {{< br >}}3\. Prepare your final presentation and research. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+四月十九号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月二十一号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月二十三号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Vacation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-5, structures and explanations.  
+2\. Cultural background explanation.  
+3\. Homework due.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz-5
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Vacation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Review L-5.  
+2\. Prepare your final presentation and research.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Answer questions.  
+2\. Study structures.  
+3\. Read L-6.  
+3\. Prepare your final presentation and research.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 四月二十六号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月二十八号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 四月三十号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} Quiz-5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-6, structures and explanations.  {{< br >}}2\. Discussion. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. L-6, structures and explanations continued.  {{< br >}}2\. Discussion continued. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 1\. Study “useful words.”  {{< br >}}2\. Study structures.  {{< br >}}3\. Listen to L-6.  {{< br >}}4\. Prepare your final presentation and research.  {{< br >}}5\. Read L-6. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Study “useful words.”  {{< br >}}2\. Study structures.  {{< br >}}3\. Prepare your final presentation and research.  {{< br >}}4\. Do homework.  {{< br >}}5\. Answer questions. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Composition (topic will be given in class).  {{< br >}}2\. Prepare your final presentation and  research.  {{< br >}}3\. Read L-6. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+四月二十六号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月二十八号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+四月三十号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Quiz-5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-6, structures and explanations.  
+2\. Discussion.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. L-6, structures and explanations continued.  
+2\. Discussion continued.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. Study “useful words.”  
+2\. Study structures.  
+3\. Listen to L-6.  
+4\. Prepare your final presentation and research.  
+5\. Read L-6.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Study “useful words.”  
+2\. Study structures.  
+3\. Prepare your final presentation and research.  
+4\. Do homework.  
+5\. Answer questions.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Composition (topic will be given in class).  
+2\. Prepare your final presentation and  research.  
+3\. Read L-6.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   
  
 
-|  {{< br >}}{{< br >}} 五月三号  {{< br >}}星期一 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 五月五号  {{< br >}}星期三 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 五月七号  {{< br >}}星期五 {{< br >}}{{< br >}}  |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1\. L-6, structures and explanations continued.  {{< br >}}2\. Discussion continued. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Movie watching.  {{< br >}}2\. Discussion. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Movie watching.  {{< br >}}2\. Discussion. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 功课 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 1\. Post your composition.  {{< br >}}2\. Prepare your final presentation and research. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Prepare your final  {{< br >}}presentation and research. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1\. Prepare your final  {{< br >}}presentation and research. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+
+
+五月三号  
+星期一
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+五月五号  
+星期三
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+五月七号  
+星期五
+
+
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. L-6, structures and explanations continued.  
+2\. Discussion continued.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Movie watching.  
+2\. Discussion.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Movie watching.  
+2\. Discussion.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+功课
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1\. Post your composition.  
+2\. Prepare your final presentation and research.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Prepare your final  
+presentation and research.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1\. Prepare your final  
+presentation and research.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Homework** {{< anchor "Homework" >}}{{< /anchor >}}([back to top](#Top))
 

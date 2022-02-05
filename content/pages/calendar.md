@@ -4,19 +4,315 @@ title: Calendar
 uid: aef94c59-0999-fcc7-e928-7698d1095913
 ---
 
-| WEEK # | MONDAY | WEDNESDAY | FRIDAY |
-| --- | --- | --- | --- |
-| 1 |  | Session 1  {{< br >}}  {{< br >}}Introduction | Session 2  {{< br >}}  {{< br >}}Lesson One |
-| 2 | Session 3  {{< br >}}  {{< br >}}Lesson One (cont.) | Session 4  {{< br >}}  {{< br >}}Lesson One (cont.) | Session 5  {{< br >}}  {{< br >}}Lesson One (cont.) |
-| 3 |  | Session 6  {{< br >}}  {{< br >}}Quiz 1 | Session 7  {{< br >}}  {{< br >}}Lesson Two |
-| 4 | Session 8  {{< br >}}  {{< br >}}Lesson Two (cont.) | Session 9  {{< br >}}  {{< br >}}Lesson Two (cont.) | Session 10  {{< br >}}  {{< br >}}Lesson Two (cont.) |
-| 5 | Session 11  {{< br >}}  {{< br >}}Quiz 2 | Session 12  {{< br >}}  {{< br >}}Lesson Three |  {{< br >}}{{< br >}} Session 13  {{< br >}}  {{< br >}}Lesson Three (cont.) {{< br >}}{{< br >}}  |
-| 6 | Session 14  {{< br >}}  {{< br >}}Lesson Three (cont.) | Session 15  {{< br >}}  {{< br >}}Lesson Three (cont.) | Session 16  {{< br >}}  {{< br >}}Quiz 3 |
-| 7 | Session 17  {{< br >}}  {{< br >}}Lesson Four | Session 18  {{< br >}}  {{< br >}}Lesson Four (cont.) | Session 19  {{< br >}}  {{< br >}}Mid Term |
-| 8 | Session 20  {{< br >}}  {{< br >}}Lesson Four (cont.) | Session 21  {{< br >}}  {{< br >}}Lesson Four (cont.) | Session 22  {{< br >}}  {{< br >}}Quiz 4 |
-| 9 | Session 23  {{< br >}}  {{< br >}}Lesson Five | Session 24  {{< br >}}  {{< br >}}Lesson Five (cont.) | Session 25  {{< br >}}  {{< br >}}Lesson Five (cont.) |
-| 10 | Session 26  {{< br >}}  {{< br >}}Lesson Five (cont.) | Session 27  {{< br >}}  {{< br >}}Quiz 5 | Session 28  {{< br >}}  {{< br >}}Lesson Six |
-| 11 |  | Session 29  {{< br >}}  {{< br >}}Lesson Six (cont.) | Session 30  {{< br >}}  {{< br >}}Lesson Six  {{< br >}}(cont.) |
-| 12 | Session 31  {{< br >}}  {{< br >}}Lesson Six (cont.) | Session 32  {{< br >}}  {{< br >}}Quiz 6 | Session 33  {{< br >}}  {{< br >}}Lesson Seven |
-| 13 | Session 34  {{< br >}}  {{< br >}}Lesson Seven (cont.) | Session 35  {{< br >}}  {{< br >}}Lesson Seven (cont.) | Session 36  {{< br >}}  {{< br >}}Presentation |
-| 14 | Session 37  {{< br >}}  {{< br >}}Presentation (cont.) | Session 38  {{< br >}}  {{< br >}}Presentation (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+MONDAY
+{{< thclose >}}
+{{< thopen >}}
+WEDNESDAY
+{{< thclose >}}
+{{< thopen >}}
+FRIDAY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Session 1  
+  
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Session 2  
+  
+Lesson One
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Session 3  
+  
+Lesson One (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 4  
+  
+Lesson One (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 5  
+  
+Lesson One (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Session 6  
+  
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+Session 7  
+  
+Lesson Two
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Session 8  
+  
+Lesson Two (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 9  
+  
+Lesson Two (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 10  
+  
+Lesson Two (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Session 11  
+  
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+Session 12  
+  
+Lesson Three
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 13  
+  
+Lesson Three (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Session 14  
+  
+Lesson Three (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 15  
+  
+Lesson Three (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 16  
+  
+Quiz 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Session 17  
+  
+Lesson Four
+{{< tdclose >}}
+{{< tdopen >}}
+Session 18  
+  
+Lesson Four (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 19  
+  
+Mid Term
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Session 20  
+  
+Lesson Four (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 21  
+  
+Lesson Four (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 22  
+  
+Quiz 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Session 23  
+  
+Lesson Five
+{{< tdclose >}}
+{{< tdopen >}}
+Session 24  
+  
+Lesson Five (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 25  
+  
+Lesson Five (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Session 26  
+  
+Lesson Five (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 27  
+  
+Quiz 5
+{{< tdclose >}}
+{{< tdopen >}}
+Session 28  
+  
+Lesson Six
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Session 29  
+  
+Lesson Six (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 30  
+  
+Lesson Six  
+(cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Session 31  
+  
+Lesson Six (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 32  
+  
+Quiz 6
+{{< tdclose >}}
+{{< tdopen >}}
+Session 33  
+  
+Lesson Seven
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Session 34  
+  
+Lesson Seven (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 35  
+  
+Lesson Seven (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 36  
+  
+Presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Session 37  
+  
+Presentation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 38  
+  
+Presentation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
